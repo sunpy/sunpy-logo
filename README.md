@@ -38,6 +38,7 @@ File Descriptions
 
 Original vs Generated Files
 ===========================
-All files in the directory named generated are derived
+All files in the directory `generated` are derived
 products from the original files in the root directory
-therefore they should never be edited directly.
+therefore they should never be edited directly. They can be updated by using
+the `convert.sh` script.
