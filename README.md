@@ -29,8 +29,12 @@ File Descriptions
 
 |Filename| Description |
 |--------|-------------|
-|TBD   | TBD     |
-
+| sunpy_logo.svg | icon on left "sunpy" above tagline on right |
+| sunpy_sun.svg | icon only |
+| sunpy_logo_word.svg | "sunpy" only |
+| sunpy_logo_portrait.svg | icon above "sunpy"|
+| sunpy_logo_portrait_powered.svg | icon above "sunpy" above "powered" |
+| sunpy_logo_landscape.svg  | icon on left "sunpy" no tagline |
 
 Original vs Generated Files
 ===========================
