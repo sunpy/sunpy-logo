@@ -241,17 +241,9 @@
              inkscape:connector-curvature="0" /></g><text
            transform="matrix(1,0,0,-1,50.895,89.1035)"
            style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:230px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Bold;writing-mode:lr-tb;fill:#fe7900;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text3777"><tspan
-             x="0 101.89 232.53"
-             y="0"
-             sodipodi:role="line"
-             id="tspan3779">sun</tspan></text>
+           id="text3777">sun</text>
 </g></g><text
        transform="matrix(1,0,0,-1,414.9795,89.1035)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:230px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text3781"><tspan
-         x="0 126.73"
-         y="0"
-         sodipodi:role="line"
-         id="tspan3783">py</tspan></text>
+       id="text3781">py</text>
 </g></svg>

@@ -209,29 +209,23 @@
              d="m 0,0 c 0.304,-5.205 -8.817,-5.893 -13.724,-6.302 l -5.042,0 c -6.249,0.66 -12.78,1.039 -15.266,5.462 l 0,0.98 c 1.722,4.674 7.546,5.247 13.305,5.882 0.567,0.088 1.489,-0.181 1.821,0.141 l 2.101,0 c 0.379,-0.321 1.347,-0.053 1.96,-0.141 3.25,-0.274 6.121,-0.448 9.103,-1.4 C -3.501,3.91 -0.151,2.55 0,0"
              style="fill:#fed20c;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path6534"
-             inkscape:connector-curvature="0" /></g><text
+             inkscape:connector-curvature="0" /></g>
+<text
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:140px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Bold;writing-mode:lr-tb;fill:#f47900;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text6536"
            x="194.19119"
-           y="-101.42715"><tspan
-             x="194.19119 256.21118 335.73117"
-             y="-101.42715"
-             sodipodi:role="line"
-             id="tspan6538">sun</tspan></text>
+           y="-101.42715">sun</text>
 <text
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:140px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text6540"
            x="415.81119"
-           y="-101.42715"><tspan
-             x="415.81119 492.9512"
-             y="-101.42715"
-             sodipodi:role="line"
-             id="tspan6542">py</tspan></text>
+           y="-101.42715">py</text>
 <text
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#444444;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text6541"
            x="200"
-           y="-31.42715">A Community Python Library for Solar Physics</text></g></g></g></svg>
+           y="-31.42715">A Community Python Library for Solar Physics</text>
+</g></g></g></svg>

@@ -52,28 +52,17 @@
      inkscape:current-layer="g6486" /><g
      id="g6416"
      inkscape:groupmode="layer"
-     inkscape:label="sunpy logo diecut"
      transform="matrix(1.25,0,0,-1.25,0,200)"><g
        id="g6484"><g
-         id="g6486"
-         clip-path="url(#clipPath6488)"><text
+         clip-path="url(#clipPath6488)">
+<text
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:140px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Bold;writing-mode:lr-tb;fill:#f47920;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text6536"
            x="15.426491"
-           y="-57.520027"><tspan
-             x="15.426491 77.446487 156.96649"
-             y="-57.520027"
-             sodipodi:role="line"
-             id="tspan6538">sun</tspan></text>
+           y="-57.520027">sun</text>
 <text
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:140px;font-family:'Source Sans Pro';-inkscape-font-specification:SourceSansPro-Regular;writing-mode:lr-tb;fill:#454545;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text6540"
            x="237.04649"
-           y="-57.520027"><tspan
-             x="237.04649 314.18649"
-             y="-57.520027"
-             sodipodi:role="line"
-             id="tspan6542">py</tspan></text>
+           y="-57.520027">py</text>
 </g></g></g></svg>
