@@ -42,3 +42,8 @@ All files in the directory `generated` are derived
 products from the original files in the root directory
 therefore they should never be edited directly. They can be updated by using
 the `convert.sh` script.
+
+Credit
+======
+The script `webicon.sh` was created by @emareff. The original version can be
+found at https://github.com/emarref/webicon.

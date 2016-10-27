@@ -8,7 +8,7 @@ SRC_IMAGE=$1
 PWD=`pwd`
 TRANSPARENT_COLOUR="#FFFFFF"
 IMAGE_NAME="favicon"
-WEBSITE_DOMAIN="http://www.sunpy.org"
+WEBSITE_DOMAIN="https://raw.githubusercontent.com/sunpy/sunpy-logo/master/generated/favicons"
 
 OPTIMIZER_CMD=`which optipng`
 OPTIMIZER_OPTS="-o 7 -quiet"
