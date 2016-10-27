@@ -4,9 +4,14 @@ import glob
 import os
 from os.path import basename
 # Remove old files
-files = glob.glob('generated/*')
+files = glob.glob('generated/*.*')
 for f in files:
     os.remove(f)
+
+files = glob.glob('generated/favicon/*.*')
+for f in files:
+    os.remove(f)
+
 
 source_files = glob.glob('*.svg')
 print(source_files)
@@ -19,6 +24,8 @@ for f in source_files:
 #inkscape sunpy_logo.svg --export-plain-svg=generated/sunpy_logo_plain.svg
 for f in source_files:
     subprocess.call(["inkscape", f, "--export-plain-svg=generated/" + os.path.splitext(f)[0] + ".svg"])
+
+subprocess.call(["webicon.sh", "sunpy_icon.svg"])
 
 # Convert to PNGs required by Astropy website/docs
 #convert -intent Saturation -colorspace sRGB -filter Lanczos -resize 1000x96 -trim generated/sunpy_logo.png generated/sunpy_banner_96.png
