@@ -27,8 +27,5 @@ for f in source_files:
 
 subprocess.call(["webicon.sh", "sunpy_icon.svg"])
 
-# Convert to PNGs required by Astropy website/docs
-#convert -intent Saturation -colorspace sRGB -filter Lanczos -resize 1000x96 -trim generated/sunpy_logo.png generated/sunpy_banner_96.png
-
 # Remove full-res PNGs since these aren't needed
 #rm generated/sunpy_logo.png

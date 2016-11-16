@@ -41,7 +41,7 @@ Original vs Generated Files
 All files in the directory `generated` are derived
 products from the original files in the root directory
 therefore they should never be edited directly. They can be updated by using
-the `convert.sh` script.
+the `convert.sh` script which requires that inkscape be installed.
 
 Credit
 ======
