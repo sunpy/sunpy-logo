@@ -16,7 +16,11 @@
    width="875"
    height="1125"
    viewBox="0 0 875 1125"
-   sodipodi:docname="sunpy_compact_inkscape2.svg"><metadata
+   sodipodi:docname="sunpy_compact_inkscape2.svg">
+   <defs>
+     <style type="text/css">@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);</style>
+   </defs>
+   <metadata
      id="metadata3647"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
